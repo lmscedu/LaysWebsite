@@ -34,12 +34,12 @@ What is a latte, cappuccino, macchiato, and americano coffee?
 
 #### STUDY TIME!
 
-[Video](https://youtu.be/wN-mZtbX2Pg)
+</video>(https://youtu.be/wN-mZtbX2Pg)
 
 
 ##### BREAK TIME!
 
-[Video](https://youtu.be/tuVa27WISyo)
+</video>(https://youtu.be/tuVa27WISyo)
 
 
 ###### SPOTIFY PLAYLIST!
