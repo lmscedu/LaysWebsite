@@ -11,7 +11,7 @@ The purpose of an online café website is to share facts about coffees.
 What is a latte, cappuccino, macchiato, and americano coffee?
 
 Espresso
-- Espresso is a coffee-brewing method of Italian origin, in which a small amount of nearly boiling water is forced under 9–10 bars of pressure through finely-ground coffee beans. Espresso coffee can be made with a wide variety of coffee beans and roast degrees.
+- Espresso is a coffee-brewing method of Italian origin, in which a small amount of nearly boiling water is forced under 9-10 bars of pressure through finely-ground coffee beans. Espresso coffee can be made with a wide variety of coffee beans and roast degrees.
 
 Americano
 - Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.
