@@ -1,6 +1,6 @@
 ## Welcome to My Online Café Pages
 
-**WHAT'S THE PURPOSE OF THIS ONLINE CAFE WEBSITE?**
+**WHAT'S THE PURPOSE OF THIS ONLINE CAFÉ WEBSITE?**
 
 The purpose of an online café website is to share facts about coffees. 
 
@@ -10,24 +10,23 @@ The purpose of an online café website is to share facts about coffees.
 
 What is a latte, cappuccino, macchiato, and americano coffee?
 
-Espresso
+**Espresso**
 - Espresso is a coffee-brewing method of Italian origin, in which a small amount of nearly boiling water is forced under 9-10 bars of pressure through finely-ground coffee beans. Espresso coffee can be made with a wide variety of coffee beans and roast degrees.
 
-Americano
+**Americano**
 - Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.
 
-Cappuccino
+**Cappuccino**
 - A cappuccino is an espresso-based coffee drink that originated in Austria with later development taking place in Italy, and is prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milk, using non-dairy milk substitutes and flavoring with cinnamon or chocolate powder.
 
-Latte
+**Latte**
 - Caffè latte, often shortened to just latte in English, is a coffee drink of Italian origin made with espresso and steamed milk.
 
-Macchiato
+**Macchiato**
 - Caffè macchiato, sometimes called espresso macchiato, is an espresso coffee drink with a small amount of milk, usually foamed. In Italian, macchiato means "stained" or "spotted" so the literal translation of caffè macchiato is "stained” or “marked coffee.”
 
-Mocha
+**Mocha**
 - A café mocha, also called mocaccino, is a chocolate-flavoured warm beverage that is a variant of a café latte, commonly served in a glass rather than a mug.
-
 
 
 ![Image](https://coffeedorks.com/wp-content/uploads/2019/02/americano-vs-latte-.jpg)
