@@ -32,6 +32,21 @@ What is a latte, cappuccino, macchiato, and americano coffee?
 ![Image](https://coffeedorks.com/wp-content/uploads/2019/02/americano-vs-latte-.jpg)
 
 
+#### STUDY TIME!
+
+[Link](https://youtu.be/wN-mZtbX2Pg)
+
+
+##### BREAK TIME!
+
+[Link](https://youtu.be/tuVa27WISyo)
+
+
+###### SPOTIFY PLAYLIST!
+
+[Link](https://open.spotify.com/playlist/1VpzWBqKazwQrBp9bfVX9E?si=317f628266ca4364)
+
+
 
 ```markdown
 
