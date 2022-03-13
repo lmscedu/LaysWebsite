@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Americano**
 - Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.
 
+(![image](https://user-images.githubusercontent.com/99865292/158045369-c23cc5f1-abcd-4998-a977-020888df3f1c.png))
 
 - Bulleted
 - List
