@@ -1,6 +1,8 @@
 ## Welcome to My Online Café Pages
 
-You can use the [editor on GitHub](https://github.com/lmscedu/LaysWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+WHAT'S THE PURPOSE OF THIS ONLINE CAFE WEBSITE?
+
+The purpose of an online café website is to share facts about coffees. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
