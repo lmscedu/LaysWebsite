@@ -10,7 +10,6 @@ The purpose of an online café website is to share facts about coffees.
 What is a latte, cappuccino, macchiato, and americano coffee?
 
 ```markdown
-Syntax highlighted code block
 
 **Latte
 - Caffè latte, often shortened to just latte in English, is a coffee drink of Italian origin made with espresso and steamed milk.
