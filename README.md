@@ -9,16 +9,16 @@ The purpose of an online café website is to share facts about coffees.
 
 What is a latte, cappuccino, macchiato, and americano coffee?
 
-**Latte
+**Latte**
 - Caffè latte, often shortened to just latte in English, is a coffee drink of Italian origin made with espresso and steamed milk.
 
-**Cappuccino
+**Cappuccino**
 - A cappuccino is an espresso-based coffee drink that originated in Austria with later development taking place in Italy, and is prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milk, using non-dairy milk substitutes and flavoring with cinnamon or chocolate powder.
 
-**Macchiato
+**Macchiato**
 - Caffè macchiato, sometimes called espresso macchiato, is an espresso coffee drink with a small amount of milk, usually foamed. In Italian, macchiato means "stained" or "spotted" so the literal translation of caffè macchiato is "stained” or “marked coffee.”
 
-**Americano
+**Americano**
 - Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.
 
 ```markdown
