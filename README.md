@@ -1,4 +1,4 @@
-Welcome to My Online Café Pages
+## Welcome to My Online Café Pages
 
 **WHAT'S THE PURPOSE OF THIS ONLINE CAFÉ WEBSITE?**
 
@@ -6,7 +6,7 @@ The purpose of an online café website is to share facts about coffees.
 
 
 
-FACTS!
+### FACTS!
 
 What is a latte, cappuccino, macchiato, and americano coffee?
 
