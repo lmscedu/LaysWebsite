@@ -1,4 +1,4 @@
-## Welcome to My Online Café Pages
+Welcome to My Online Café Pages
 
 **WHAT'S THE PURPOSE OF THIS ONLINE CAFÉ WEBSITE?**
 
