@@ -6,7 +6,7 @@ The purpose of an online café website is to share facts about coffees.
 
 
 
-### FACTS!
+FACTS!
 
 What is a latte, cappuccino, macchiato, and americano coffee?
 
