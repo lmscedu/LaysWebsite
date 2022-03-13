@@ -23,7 +23,7 @@ What is a latte, cappuccino, macchiato, and americano coffee?
 **Americano
 - Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.
 
-![image](https://user-images.githubusercontent.com/99865292/158045666-e8be5ccc-ec05-4661-b6a8-85500619b46a.png)
+![Image](https://coffeedorks.com/wp-content/uploads/2019/02/americano-vs-latte-.jpg)
 
 
 - Bulleted
