@@ -22,10 +22,9 @@ Macchiato
 Americano
 - Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.
 
-```markdown
-
 ![Image](https://coffeedorks.com/wp-content/uploads/2019/02/americano-vs-latte-.jpg)
 
+```markdown
 
 - Bulleted
 - List
